@@ -53,4 +53,4 @@ Si no se encuentra ningún registro se indicará como se muestra a continuación
 ![image](https://github.com/user-attachments/assets/c8e7e646-9fd3-4d0d-adb4-21eeca289c25)
 
 
-**Este proyecto contiene algunas validadciones al ingresar datos en cada input, desde restricciones de números donde no corresponde, carácteres especiales, tamaño de ingreso de datos y evita el registro de campos vacios**.
+**Este proyecto contiene algunas validaciones al ingresar datos en cada input, desde restricciones de números donde no corresponde, carácteres especiales, tamaño de ingreso de datos y evita el registro de campos vacios**.
