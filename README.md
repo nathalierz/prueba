@@ -1,6 +1,6 @@
 # CRUD_PHP
 
-##Descripción
+## Descripción
  Sistema de registro de datos usando **MVC** con **PHP**, **MySQL**, **HTML** y **CSS**.
  
 ## Software
@@ -47,6 +47,8 @@ El sistema permite la modificación de datos registrados mediante el botón de *
 De igual forma, cada registro tiene la opción de ser eliminado con el botón de **Eliminar**.
 
 ![image](https://github.com/user-attachments/assets/356fa7a8-187f-4102-902f-9024bbf516ca)
+
+**Este proyecto contiene algunas validadciones al ingresar datos en cada input, desde restricciones de números donde no corresponde, carácteres especiales, tamaño de ingreso de datos y evita el registro de campos vacios**.
 
 Si no se encuentra ningún registro se indicará como se muestra a continuación:
 
