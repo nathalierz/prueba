@@ -9,7 +9,7 @@
  Una vez instalado el software necesario, se podrá inicializar en el **Panel de control de XAMPP** tanto el servidor web y el gestor de base de datos.
 
 ## Inicialización de proyecto
- Antes de comenzar a poner en marcha este proyecto, se debe importar el script **prueba.sql** que se encuentra en este repositorio para la creación de la base de datos. Lo podrá realizar dentro del **phpmyadmin** al inicizalizar XAMPP.
+ Antes de comenzar a poner en marcha este proyecto, se debe importar el script **prueba.sql** que se encuentra en este repositorio para la creación de la base de datos. Lo podrá realizar dentro del **phpmyadmin** al inicializar XAMPP.
 
  **OJO**: Todos los archivos de este repositorio se deberan colocar dentro del directorio que se crea al instalar XAMPP dentro de una carpeta llamada **prueba**:
  ```
